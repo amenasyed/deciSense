@@ -1,4 +1,12 @@
 # deciSense Project Updates
+AT A GLANCE
+
+deciSense is a device aimed to detect harmful environmental noise and alerts the user to prevent temporary and permanent hearing damage. 
+
+Check out our project presentation here: https://docs.google.com/presentation/d/1R1McmD1tR4ZQM53tplPju1x3d8FL8b5JXZpk501t0wA/edit#slide=id.p
+View Figma mockups here: https://www.figma.com/file/0Kh8CNultkdfS8cDIVaaWk/User-Flows-%2B-Wireframes?node-id=0%3A1
+
+_________________________________________________________________
 
 WEDNESDAY, JULY 20, 2022 - AMENA, JACQUELINE
 
