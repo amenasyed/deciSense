@@ -5,7 +5,7 @@ deciSense is a device aimed to detect harmful environmental noise and alerts the
 
 Check out our project presentation here: https://docs.google.com/presentation/d/1R1McmD1tR4ZQM53tplPju1x3d8FL8b5JXZpk501t0wA/edit#slide=id.p
 
-View Figma mockups here:
+View Figma mockups here (created by Amena):
 https://www.figma.com/file/0Kh8CNultkdfS8cDIVaaWk/User-Flows-%2B-Wireframes?node-id=0%3A1
 
 _________________________________________________________________
